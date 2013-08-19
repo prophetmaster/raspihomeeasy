@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Raspi Home Easy</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="name">ListViewBaseAdapter</string>
+    <string name="image">Thumbnail</string>
+    
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    
+    <string name="allon">ALL ON</string>
+    <string name="alloff">ALL OFF</string>
+   
+    <string name="demo_title">Welcome</string>
+    <string name="demo_text">to raspi home easy, control home easy device with your raspberry pi and the usb adapter. Add one device to start, </string>
+</resources>

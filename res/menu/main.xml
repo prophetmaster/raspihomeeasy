@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+                android:id="@+id/add"
+                android:showAsAction="always"
+                android:icon="@drawable/ic_action_content_new"
+                android:title="add"/>
+
+    <item
+                android:id="@+id/menu_settings"
+                android:showAsAction="always"
+                android:icon="@drawable/ic_action_menu_dark"
+                android:title="setting"/>
+</menu>
